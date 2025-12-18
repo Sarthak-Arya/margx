@@ -57,7 +57,7 @@
                     </div><!-- End menu button -->
                     <!-- Begin logo -->
                     <a href="{{ route('home') }}" class="logo h-amin crs" title="SLE">
-                        <img src="{{ asset('assets/img/logo-white.svg') }}" width="46" height="20" alt="SLE">
+                        <img src="{{ asset('images/wordmark white@2x.png') }}" alt="SLE">
                     </a><!-- End logo -->
                 </div><!-- End header brand -->
             </div>

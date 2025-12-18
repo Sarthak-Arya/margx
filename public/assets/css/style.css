@@ -1699,12 +1699,19 @@ hr {
     min-height: 2rem;
     position: relative;
     z-index: 1;
+    margin-left: -1rem;
+}
+
+@media (min-width: 768px) {
+    .header-brand {
+        margin-left: -2rem;
+    }
 }
 
 .logo {
-    --logo-max-height: 2rem;
-    --logo-tablet-max-height: 1.625rem;
-    --logo-mobile-max-height: 1.25rem;
+    --logo-max-height: 4rem;
+    --logo-tablet-max-height: 3.5rem;
+    --logo-mobile-max-height: 3rem;
     display: block;
     color: var(--text);
     text-decoration: none;

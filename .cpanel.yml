@@ -1,5 +1,5 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/username/public_html/
+    - export DEPLOYPATH=/home/margx4f4/public_html/
     - /bin/cp -R public/* $DEPLOYPATH
     - /bin/cp public/.htaccess $DEPLOYPATH

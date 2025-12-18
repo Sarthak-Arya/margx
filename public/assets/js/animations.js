@@ -326,6 +326,21 @@ function initAnimations() {
         });
     });
 
+    // Parallax effect for decorative arrows on services page
+    const decorativeArrows = document.querySelectorAll('.section.items-of-numbers .ifn-decor');
+    decorativeArrows.forEach(arrows => {
+        gsap.to(arrows, {
+            y: -100,
+            ease: 'none',
+            scrollTrigger: {
+                trigger: arrows.closest('.section'),
+                start: 'top bottom',
+                end: 'bottom top',
+                scrub: true
+            }
+        });
+    });
+
     console.log('Animations initialized');
 }
 

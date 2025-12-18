@@ -6018,18 +6018,25 @@ a.nitem {
 }
 
 .nitem-arrow-decor {
-    display: block;
+    display: block !important;
     position: absolute;
     left: 0;
     top: 50%;
     transform: translate(-3rem, -50%);
     fill: var(--accent);
     width: 1.4375rem;
+    visibility: visible !important;
 }
 
 .nitem-arrow-decor svg {
-    display: block;
+    display: block !important;
     width: 100%;
+    fill: var(--accent);
+}
+
+.nitem-arrow-decor svg path,
+.nitem-arrow-decor svg use {
+    fill: var(--accent) !important;
 }
 
 .nitem-numb {
@@ -7743,6 +7750,69 @@ a.iitem-bordered {
 
 .contact-form-m0 {
     margin: 0;
+}
+
+/* Reduce spacing on contact page */
+.section.contacts.form-outer .section-headline {
+    margin-bottom: 1.5rem !important;
+    margin-top: 13rem !important;
+}
+
+.section.contacts.form-outer .form-field {
+    margin-bottom: 1.5rem !important;
+}
+
+.section.contacts.form-outer .row.gy-3 {
+    --gutter-y: 1.5rem;
+}
+
+@media (min-width: 768px) {
+    .section.contacts.form-outer .form-field {
+        margin-bottom: 2rem !important;
+    }
+}
+
+/* Add spacing to services page section */
+.section.items-of-numbers .section-headline {
+    margin-top: 14rem !important;
+}
+
+/* Ensure decorative arrows are visible on services page */
+.section.items-of-numbers .col-md-1_3.col-d.b-none.b-md-block {
+    display: block !important;
+}
+
+@media (min-width: 768px) {
+    .section.items-of-numbers .col-md-1_3.col-d.b-none.b-md-block {
+        display: block !important;
+    }
+}
+
+.section.items-of-numbers .ifn-decor {
+    display: flex !important;
+    visibility: visible !important;
+    justify-content: center;
+    fill: var(--text);
+    opacity: 0.3;
+}
+
+.section.items-of-numbers .ifn-decor svg {
+    display: block;
+    width: 160px;
+    height: auto;
+    max-width: 100%;
+    fill: currentColor;
+    opacity: 0.3;
+}
+
+.section.items-of-numbers .ifn-decor svg path {
+    fill: currentColor;
+}
+
+/* Move up Get in touch section on services page */
+.section.items-of-numbers + .section.contacts {
+    margin-top: -25rem !important;
+    padding-top: 2rem !important;
 }
 
 .map-outer {

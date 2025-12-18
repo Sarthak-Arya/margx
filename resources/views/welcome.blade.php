@@ -4,7 +4,7 @@
 
         <meta charset="utf-8">
 
-    <title>SLE - simplicity and lack of exces</title>
+    <title>MargX - simplicity and lack of exces</title>
 
     <meta name="description" content="Description">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -56,8 +56,8 @@
                         </svg>
                     </div><!-- End menu button -->
                     <!-- Begin logo -->
-                    <a href="{{ route('home') }}" class="logo h-amin crs" title="SLE">
-                        <img src="{{ asset('images/wordmark white@2x.png') }}" alt="SLE">
+                    <a href="{{ route('home') }}" class="logo h-amin crs" title="MargX">
+                        <img src="{{ asset('images/wordmark white@2x.png') }}" alt="MargX">
                     </a><!-- End logo -->
                 </div><!-- End header brand -->
             </div>
@@ -136,8 +136,8 @@
     <div class="container bin-container">
         <div class="marquee">
             <div class="marquee-item" data-dir='left'>
-                <div class="marquee-row">SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — </div>
-                <div class="marquee-row">SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — </div>
+                <div class="marquee-row">MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — </div>
+                <div class="marquee-row">MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — </div>
             </div>
         </div>
         <div class="row gy-3">
@@ -184,8 +184,8 @@
         </div>
         <div class="marquee">
             <div class="marquee-item" data-dir='right'>
-                <div class="marquee-row">SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — </div>
-                <div class="marquee-row">SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — </div>
+                <div class="marquee-row">MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — </div>
+                <div class="marquee-row">MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — </div>
             </div>
         </div>
     </div>
@@ -341,16 +341,16 @@
 			<div class="container">
     <div class="marquee">
         <div class="marquee-item" data-dir='left'>
-            <div class="marquee-row">SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — </div>
-            <div class="marquee-row">SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — </div>
+            <div class="marquee-row">MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — </div>
+            <div class="marquee-row">MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — </div>
         </div>
         <div class="marquee-item" data-dir='right'>
-            <div class="marquee-row"> — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE</div>
-            <div class="marquee-row"> — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE</div>
+            <div class="marquee-row"> — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX</div>
+            <div class="marquee-row"> — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX</div>
         </div>
         <div class="marquee-item" data-dir='left'>
-            <div class="marquee-row">SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — </div>
-            <div class="marquee-row">SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — </div>
+            <div class="marquee-row">MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — </div>
+            <div class="marquee-row">MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — </div>
         </div>
     </div>
 </div>
@@ -781,16 +781,16 @@
                 <div class="container">
     <div class="marquee">
         <div class="marquee-item" data-dir='left'>
-            <div class="marquee-row">SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — </div>
-            <div class="marquee-row">SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — </div>
+            <div class="marquee-row">MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — </div>
+            <div class="marquee-row">MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — </div>
         </div>
         <div class="marquee-item" data-dir='right'>
-            <div class="marquee-row"> — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE</div>
-            <div class="marquee-row"> — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE</div>
+            <div class="marquee-row"> — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX</div>
+            <div class="marquee-row"> — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX</div>
         </div>
         <div class="marquee-item" data-dir='left'>
-            <div class="marquee-row">SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — </div>
-            <div class="marquee-row">SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — SLE — </div>
+            <div class="marquee-row">MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — </div>
+            <div class="marquee-row">MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — MargX — </div>
         </div>
     </div>
 </div>
@@ -824,7 +824,7 @@
                 </li>
             </ul>
         </nav>
-        <div class="copyright">© 2023 - SLE</div>
+        <div class="copyright">© 2023 - MargX</div>
     </div>
 </footer><!-- End footer -->
 
@@ -876,9 +876,6 @@
                                 <li>
                                     <a data-title="Home" href="{{ route('home') }}" class="crs">
                                         <span>Home</span>
-                                        <div class="mmi-btn crs">
-                                            <svg width="0" height="0" viewBox="0 0 29 32" xmlns="http://www.w3.org/2000/svg"><path d="M6.14959 13.9297L0.999999 18.6432L14.5 31L28 18.6433L22.8504 13.9298L18.1418 18.2397L18.1418 1L10.8583 0.999999L10.8583 18.2397L6.14959 13.9297Z"/></svg>
-                                        </div>
                                     </a>
                                     <ul>
                                         <li><a href="{{ route('home.index') }}" class="crs">Home 1</a></li>

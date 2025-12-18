@@ -38,7 +38,7 @@ Route::get('/about', function () {
 
 // Services
 Route::get('/services', function () {
-    return view('welcome');
+    return view('services');
 })->name('services');
 
 Route::get('/services2', function () {
@@ -166,7 +166,7 @@ Route::get('/news-post', function () {
 
 // Contact
 Route::get('/contact', function () {
-    return view('welcome');
+    return view('contact');
 })->name('contact');
 
 Route::get('/contact-offices', function () {

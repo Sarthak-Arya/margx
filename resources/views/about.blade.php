@@ -726,9 +726,6 @@
                                 <li>
                                     <a data-title="Home" href="{{ route('home') }}" class="crs">
                                         <span>Home</span>
-                                        <div class="mmi-btn crs">
-                                            <svg width="0" height="0" viewBox="0 0 29 32" xmlns="http://www.w3.org/2000/svg"><path d="M6.14959 13.9297L0.999999 18.6432L14.5 31L28 18.6433L22.8504 13.9298L18.1418 18.2397L18.1418 1L10.8583 0.999999L10.8583 18.2397L6.14959 13.9297Z"/></svg>
-                                        </div>
                                     </a>
                                     <ul>
                                         <li><a href="{{ route('home.index') }}" class="crs">Home 1</a></li>

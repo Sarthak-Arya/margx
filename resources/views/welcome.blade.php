@@ -5,7 +5,7 @@
 
     <meta charset="utf-8">
 
-    <title>MargX - simplicity and lack of exces</title>
+    <title>MargX - Home</title>
 
     <meta name="description" content="Description">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -67,14 +67,14 @@
                     <div class="col-md-1_3 hf-col b-none b-md-block">
                         <!-- Begin brand id -->
                         <div class="header-brand-is hf-amin">
-                            Simplicity — <br> and lackless
+                            Identity.  Design.  Decision.
                         </div><!-- End brand id -->
                     </div>
                     <div class="col-auto col-md-1_3 hf-col">
                         <!-- Begin header nav -->
                         <nav class="header-nav">
                             <div class="lang-outer hf-amin">
-                                <div class="lang">
+                                <!--<div class="lang">
                                     <div class="lang-current crs">
                                         <span>En</span>
                                         <svg width="11" height="7" viewBox="0 0 11 7"
@@ -89,7 +89,7 @@
                                         <li><a href="#!" class="crs">It</a></li>
                                         <li><a href="#!" class="crs">Fr</a></li>
                                     </ul>
-                                </div>
+                                </div>-->
                             </div>
                             <div class="secondary-mnu-outer hf-amin b-none b-md-block">
                                 <ul class="secondary-mnu">
@@ -114,12 +114,12 @@
                         <div class="col-md-2_3">
                             <div class="block-padding-left-10-percent">
                                 <div class="section-headline _mb-none intro-heading">
-                                    <h2>Simplicity <br> and lack of excess</h2>
+                                    <h2>On the path<br> of Brand trasformation</h2>
                                 </div>
                                 <div class="intro-info intro-info-mt-min">
                                     <p class="intro-desc" style="--max-width: 15em;"><strong
-                                            class="intro-desc-anim">Also high performance, that <span>set you apart from
-                                                the competition.</span></strong></p>
+                                            class="intro-desc-anim">Where clarity shapes brands, and brands shape <span>long-term 
+                                                business direction.</span></strong></p>
                                 </div>
                             </div>
                         </div>
@@ -162,41 +162,41 @@
                         <div class="col-lg-1_3 col-sm-1_2">
                             <div class="bin-item-line anim-1_2-item">
                                 <div class="bin-item-numb">
-                                    <span class="pel pel-1">10</span>
-                                    <span class="pel pel-2">10</span>
-                                    <span class="pel pel-3">10</span>
+                                    <span class="pel pel-1">5</span>
+                                    <span class="pel pel-2">5</span>
+                                    <span class="pel pel-3">5</span>
                                 </div>
-                                <div class="bin-item-heading">Years Of Experience</div>
+                                <div class="bin-item-heading">Number of Projects</div>
                             </div>
                         </div>
                         <div class="col-lg-1_3 col-sm-1_2">
                             <div class="bin-item-line anim-1_2-item">
                                 <div class="bin-item-numb">
-                                    <span class="pel pel-1">28</span>
-                                    <span class="pel pel-2">28</span>
-                                    <span class="pel pel-3">28</span>
+                                    <span class="pel pel-1">3</span>
+                                    <span class="pel pel-2">3</span>
+                                    <span class="pel pel-3">3</span>
                                 </div>
-                                <div class="bin-item-heading">Аpps Developed</div>
+                                <div class="bin-item-heading">Companies worked with</div>
                             </div>
                         </div>
                         <div class="col-lg-1_3 offset-lg-1_3 col-sm-1_2">
                             <div class="bin-item-line anim-1_2-item">
                                 <div class="bin-item-numb">
-                                    <span class="pel pel-1">40</span>
-                                    <span class="pel pel-2">40</span>
-                                    <span class="pel pel-3">40</span>
+                                    <span class="pel pel-1">30</span>
+                                    <span class="pel pel-2">30</span>
+                                    <span class="pel pel-3">30</span>
                                 </div>
-                                <div class="bin-item-heading">Consultans</div>
+                                <div class="bin-item-heading">Creatives Created</div>
                             </div>
                         </div>
                         <div class="col-lg-1_3 col-sm-1_2">
                             <div class="bin-item-line anim-1_2-item">
                                 <div class="bin-item-numb">
-                                    <span class="pel pel-1">160</span>
-                                    <span class="pel pel-2">160</span>
-                                    <span class="pel pel-3">160</span>
+                                    <span class="pel pel-1">3500</span>
+                                    <span class="pel pel-2">3500</span>
+                                    <span class="pel pel-3">3500</span>
                                 </div>
-                                <div class="bin-item-heading">Employers</div>
+                                <div class="bin-item-heading">Reach in 2 weeks</div>
                             </div>
                         </div>
                     </div>
@@ -233,9 +233,9 @@
                                                 d="M10.9421 3.14492V4.69023H12.0398H13.1375V3.14492V1.59961H12.0398H10.9421V3.14492ZM5.6001 7.92461V9.00273H7.17343H8.74676V7.92461V6.84648H7.17343H5.6001V7.92461ZM10.9421 22.623V38.3996H23.0531H35.1641V27.1152V15.8309H30.5905H26.0168V11.3387V6.84648H18.4795H10.9421V22.623ZM28.2122 10.2605V13.6746H31.7061H35.2001L31.7247 10.2605C29.8132 8.38281 28.241 6.84648 28.2308 6.84648C28.2205 6.84648 28.2122 8.38281 28.2122 10.2605Z" />
                                         </svg>
                                     </div>
-                                    <h3 class="item-heading-large">Corporate Solution</h3>
-                                    <p class="item-desc">We use top-notch hardware to develop the most efficient apps
-                                        for our customers.</p>
+                                    <h3 class="item-heading-large">Brand Identity</h3>
+                                    <p class="item-desc">We design brand identities that bring clarity, 
+                                        consistency, and long-term advantage for founders.</p>
                                     <div class="iitem-numb-abs iitem-numb-abs-1"><span>1</span></div>
                                 </div>
                             </div>
@@ -250,9 +250,9 @@
                                                 d="M9.33655 1.74327C8.56916 1.98898 8.28189 2.22539 6.14661 4.36797C4.04081 6.48094 3.60922 6.98114 2.98579 8.03071C0.762063 11.7744 1.23068 17.0369 4.27695 22.5324C7.49235 28.3331 13.0695 33.6681 18.8059 36.4306C20.539 37.2653 22.1198 37.8091 23.8403 38.1625C25.0517 38.4113 27.3288 38.4781 28.4156 38.2967C29.3435 38.1418 30.6727 37.7105 31.4167 37.3229C32.7953 36.6046 33.5277 35.9935 35.9625 33.5298C37.5521 31.9213 37.7571 31.6864 37.998 31.197C38.5017 30.1737 38.5184 29.1375 38.0472 28.1293C37.8416 27.6892 37.6111 27.4308 35.7978 25.6075C33.6523 23.4503 33.4076 23.2569 32.5381 23.03C31.7248 22.8179 30.855 22.9219 30.0007 23.3333C29.6779 23.4888 29.2283 23.8901 27.8434 25.2591L26.094 26.9884L25.6143 26.9787C22.9932 26.9257 18.3351 23.5159 15.3332 19.4527C13.9336 17.5583 13.1161 15.7994 13.0351 14.5081L12.9976 13.9098L14.65 12.2397C15.5589 11.3212 16.4001 10.4239 16.5194 10.2457C17.2007 9.22791 17.288 7.93774 16.7531 6.79311C16.5602 6.3802 16.2943 6.08293 14.5424 4.32051C13.4471 3.21866 12.3972 2.21819 12.2092 2.09714C11.4508 1.60868 10.2275 1.45796 9.33655 1.74327ZM23.1311 6.24467C22.3517 6.52797 22.0797 7.35826 22.5576 7.99535C22.8853 8.43218 22.9575 8.44536 25.0232 8.44536H26.8964V9.59316V10.741L25.0088 10.7633C23.1869 10.785 23.1121 10.7915 22.8567 10.9505C22.6998 11.0482 22.5306 11.2427 22.4407 11.4287C22.2938 11.7324 22.2897 11.8232 22.3097 14.3373C22.3296 16.8409 22.3356 16.9396 22.4807 17.1356C22.5635 17.2474 22.7382 17.4118 22.8689 17.5009C23.1047 17.6616 23.1275 17.6629 25.7396 17.6629C28.1656 17.6629 28.3924 17.6524 28.6233 17.5294C29.0009 17.3282 29.2096 16.922 29.1763 16.4537C29.1454 16.0202 28.9833 15.756 28.6146 15.5385C28.3902 15.4062 28.218 15.3927 26.4829 15.3721L24.5954 15.3498V14.2052V13.0606L26.5548 13.0394C28.7485 13.0156 28.7364 13.0183 29.0487 12.4682C29.1914 12.2171 29.1974 12.102 29.1974 9.63888C29.1974 7.22699 29.1889 7.05452 29.0558 6.79347C28.978 6.64059 28.7919 6.43939 28.6424 6.34628C28.3722 6.17806 28.355 6.17691 25.8897 6.16034C23.9093 6.14709 23.3529 6.16409 23.1311 6.24467ZM36.9484 6.20989C36.6122 6.31524 36.3369 6.56044 36.2166 6.8616C36.1206 7.10176 36.1005 7.46355 36.1005 8.95088V10.7497H34.9534H33.8062L33.7849 8.84654C33.7647 7.05466 33.7548 6.93174 33.6152 6.74465C33.3334 6.3668 33.1036 6.24899 32.649 6.24899C32.1942 6.24899 31.9644 6.36695 31.6827 6.74479C31.5391 6.93735 31.5344 7.0291 31.5344 9.63355C31.5344 12.25 31.5385 12.329 31.6848 12.5268C31.7676 12.6386 31.9423 12.8029 32.073 12.8921C32.3046 13.05 32.359 13.0541 34.2023 13.0541H36.0939L36.1152 14.9862L36.1365 16.9183L36.333 17.1762C36.8439 17.8466 37.8728 17.7615 38.2684 17.0159C38.3942 16.7788 38.4015 16.4995 38.3999 11.9391C38.3984 7.38988 38.3907 7.09621 38.2646 6.81825C38.0513 6.34794 37.4277 6.05967 36.9484 6.20989Z" />
                                         </svg>
                                     </div>
-                                    <h3 class="item-heading-large">Call Center Solutions</h3>
-                                    <p class="item-desc">You can rely on our 24/7 tech support that will gladly solve
-                                        any app issue you may have.</p>
+                                    <h3 class="item-heading-large">Digital Marketing</h3>
+                                    <p class="item-desc">You can rely on our digital marketing and website 
+                                        systems to attract, convert, and scale demand sustainably consistently.</p>
                                     <div class="iitem-numb-abs"><span>2</span></div>
                                 </div>
                             </div>
@@ -267,9 +267,9 @@
                                                 d="M22.4099 6.4251C20.8605 6.59066 19.104 7.24761 17.6981 8.18752C16.8903 8.72757 15.4885 10.1545 14.9339 11.0013C14.6308 11.4641 14.4795 11.6351 14.3966 11.6087C14.3331 11.5884 14.0539 11.4909 13.776 11.392C11.294 10.5084 8.58401 11.4617 7.11566 13.735C6.59398 14.5426 6.29091 15.4562 6.21222 16.4584L6.16855 17.0142L5.51696 17.48C2.06483 19.9477 0.713444 24.3781 2.19503 28.3709C3.08862 30.779 5.15462 32.8747 7.52864 33.7811C8.99052 34.3392 9.62974 34.4004 14.0049 34.4004H17.6981V29.7304V25.0603H15.396H13.0938L16.52 20.4268C18.4043 17.8783 19.9704 15.7932 20.0001 15.7932C20.0298 15.7932 21.5958 17.8783 23.4802 20.4268L26.9063 25.0603H24.6042H22.302V29.7304V34.4004H25.9953C30.3704 34.4004 31.0096 34.3392 32.4715 33.7811C34.8512 32.8726 36.9095 30.7847 37.8051 28.3709C39.2868 24.378 37.9354 19.9477 34.4829 17.4798L33.831 17.0137L33.782 16.2758C33.4614 11.4489 30.119 7.55882 25.4672 6.59847C24.7317 6.44662 23.0832 6.35315 22.4099 6.4251Z" />
                                         </svg>
                                     </div>
-                                    <h3 class="item-heading-large">Cloud Development</h3>
-                                    <p class="item-desc">If you are not satisfied with our apps, we will return your
-                                        money in the first 30 days.</p>
+                                    <h3 class="item-heading-large">AI Solutions</h3>
+                                    <p class="item-desc">If your operations need leverage, we build 
+                                        AI tools and software that automate decisions and improve execution reliably.</p>
                                     <div class="iitem-numb-abs"><span>3</span></div>
                                 </div>
                             </div>
@@ -309,12 +309,12 @@
                                         <div>
                                             <div class="bin-item-numb-center">
                                                 <div class="bin-item-numb">
-                                                    <span class="pel pel-1">10</span>
-                                                    <span class="pel pel-2">10</span>
-                                                    <span class="pel pel-3">10</span>
+                                                    <span class="pel pel-1">5</span>
+                                                    <span class="pel pel-2">5</span>
+                                                    <span class="pel pel-3">5</span>
                                                 </div>
                                             </div>
-                                            <div class="bin-item-heading">Years Of <br> Experience</div>
+                                            <div class="bin-item-heading">Number of<br> Projects</div>
                                         </div>
                                         <div class="bin-item-counter-anim">
                                             <span>01.</span>
@@ -326,12 +326,12 @@
                                         <div>
                                             <div class="bin-item-numb-center">
                                                 <div class="bin-item-numb">
-                                                    <span class="pel pel-1">28</span>
-                                                    <span class="pel pel-2">28</span>
-                                                    <span class="pel pel-3">28</span>
+                                                    <span class="pel pel-1">3</span>
+                                                    <span class="pel pel-2">3</span>
+                                                    <span class="pel pel-3">3</span>
                                                 </div>
                                             </div>
-                                            <div class="bin-item-heading">Аpps <br> Developed</div>
+                                            <div class="bin-item-heading">Comapnies <br> worked with</div>
                                         </div>
                                         <div class="bin-item-counter-anim">
                                             <span>02.</span>
@@ -343,12 +343,12 @@
                                         <div>
                                             <div class="bin-item-numb-center">
                                                 <div class="bin-item-numb">
-                                                    <span class="pel pel-1">40</span>
-                                                    <span class="pel pel-2">40</span>
-                                                    <span class="pel pel-3">40</span>
+                                                    <span class="pel pel-1">30</span>
+                                                    <span class="pel pel-2">30</span>
+                                                    <span class="pel pel-3">30</span>
                                                 </div>
                                             </div>
-                                            <div class="bin-item-heading">Consultans</div>
+                                            <div class="bin-item-heading">Creatives Created</div>
                                         </div>
                                         <div class="bin-item-counter-anim">
                                             <span>03.</span>
@@ -360,12 +360,12 @@
                                         <div>
                                             <div class="bin-item-numb-center">
                                                 <div class="bin-item-numb">
-                                                    <span class="pel pel-1">71</span>
-                                                    <span class="pel pel-2">71</span>
-                                                    <span class="pel pel-3">71</span>
+                                                    <span class="pel pel-1">100</span>
+                                                    <span class="pel pel-2">100</span>
+                                                    <span class="pel pel-3">100</span>
                                                 </div>
                                             </div>
-                                            <div class="bin-item-heading">Employers</div>
+                                            <div class="bin-item-heading">percent client stisfaction</div>
                                         </div>
                                         <div class="bin-item-counter-anim">
                                             <span>04.</span>
@@ -405,7 +405,7 @@
                     </div>
                 </div>
             </div>
-            <section class="section pricing anim-1_3-items">
+            <!--<section class="section pricing anim-1_3-items">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-2_3 offset-md-1_3">
@@ -624,7 +624,7 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section>-->
             <section class="section testimonials anim-1_1-items">
                 <div class="container">
                     <div class="row">
@@ -726,7 +726,7 @@
                         <div class="col-md-2_3 offset-md-1_3">
                             <div class="section-headline -sm">
                                 <div class="b-flex b-flex-nowrap align-items-center justify-content-between">
-                                    <h1>SEO Heading</h1>
+                                    <h1>MargX Vision & Objectives</h1>
                                     <div class="seo-btn anim-1_1-item">
                                         <div class="btn btn-min crm mc">
                                             <div></div>
@@ -741,18 +741,15 @@
                         <div class="col-md-2_3 offset-md-1_3">
                             <div class="seo-content anim-1_1-item">
                                 <div class="seo-content-visible article">
-                                    <p><strong>Whenever I’m TA for a introductory CS class where students learn some
-                                            programming language, I have trouble coming up with good exercises. Problems
-                                            from Project Euler and the like are usually much too difficult for
-                                            beginners, especially if they don’t have a strong background in
-                                            mathematics.</strong></p>
-                                    <p>This page is a collection of progressively more difficult exercises that are
-                                        suitable for people who just started learning. It will be extended as I come up
-                                        with new exercises. Except for the GUI questions, exercises are generally
-                                        algorithmic and should be solvable without learning any libraries. The
-                                        difficulty of the exercises of course somewhat depends on the programming
-                                        language you use. The List exercises for example are more complicated in
-                                        languages like C that don’t have build-in support for lists.</p>
+                                    <p><strong>At MargX, our work begins with a simple observation: many founders struggle not because of 
+                                        lack of effort, but because of unclear identity and fragmented decisions. As businesses grow, complexity 
+                                        increases across branding, marketing, technology, and operations. </strong></p>
+                                    <p>Our objective is to help founders navigate this complexity by bringing clarity to their brand identity,
+                                         aligning design with business intent, and supporting decisions that shape long-term direction rather than
+                                          short-term noise. This platform brings together strategy, brand identity, digital execution, and intelligent systems 
+                                          under one framework. We work across brand building, website development, digital marketing, and AI-led tools, always focused
+                                           on practical outcomes. MargX exists to help founders build systems that scale with them, 
+                                          reduce decision fatigue, and create brands that are coherent, adaptable, and meaningful over time.</p>
                                 </div>
                                 <div class="seo-content-hidden" style="max-height: 0px;">
                                     <div class="article">
